@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+  height: 100%;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#footer {
+	display: table;
+	width: 100%;
+}
+
+#footer .container {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#footer .container .glyphicon {
+	vertical-align: middle;
+}
