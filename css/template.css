@@ -38,3 +38,8 @@ body {
 #footer .container .glyphicon {
 	vertical-align: middle;
 }
+
+img {
+  height: auto;
+  max-width: 100%;
+}
