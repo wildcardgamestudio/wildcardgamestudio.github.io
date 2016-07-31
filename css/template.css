@@ -47,3 +47,7 @@ img {
   height: auto;
   max-width: 100%;
 }
+
+.download-links a {
+    display: inline-block;
+}
